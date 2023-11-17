@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620829621625",
+    "project_id": "login-d90a7",
+    "storage_bucket": "login-d90a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620829621625:android:255d323a39d50e611bc3a8",
+        "android_client_info": {
+          "package_name": "com.example.lab_work_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-OAweZ1VaQ44eJaGl28bDA-N921qx0uU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
